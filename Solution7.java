@@ -120,3 +120,5 @@ public class Solution7 {
         }
     }
 }
+//每个连通分量都创建PriorityQueue，在极端情况下可能产生很多小堆
+//缺少对输入参数的校验
